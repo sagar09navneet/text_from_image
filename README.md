@@ -22,4 +22,6 @@ This project involves building a web application that performs text extraction a
 
    ```bash
    git clone <https://github.com/sagar09navneet/text_from_image>
+## Deployed
+   https://navneet09chitrapaathak.streamlit.app/
   
